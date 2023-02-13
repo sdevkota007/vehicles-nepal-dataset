@@ -7,15 +7,9 @@ This image dataset was collected as a part of my final year undergraduate projec
 **Description**
 ---------------
 
-VehicleNepal1: images from 1-1000 <br />
-VehicleNepal2: images from 1001-2000 <br /> 
-VehicleNepal3: images from 2001-3000 <br /> 
-VehicleNepal4: images from 3001-4000 <br />
-VehicleNepal5: images from 4001-4800 <br />
-
-Total images: 4800 <br />
-No. of two-wheeler vehicles: 1811 <br />
-No. of four-wheeler vehicles: 2989 <br />
+Total images: 4797 <br />
+No. of two-wheeler vehicles: 1823 <br />
+No. of four-wheeler vehicles: 2974 <br />
 Size of each image: varies <br />
 Resolution of each image: varies <br />
 Image format: ".jpg"
